@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duc Trung Bui</h1>
-<h3 align="center">An anspiring software developer, currently specializing in back-end</h3>
+<h3 align="center">An aspiring software developer, currently specializing in back-end</h3>
 
 - 🔭 I’m currently working on **a full-stack web application**
 
