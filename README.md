@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **OOP**
 
-- ⚡ Fun fact **I read romances for fun :D**
+- ⚡ Fun fact **I read books for fun :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
